@@ -1,8 +1,5 @@
 {
   "devDependencies": {
     "tailwindcss": "^3.3.3"
-  },
-  "editor.quickSuggestions": {
-    "strings": true
-}
+  }
 }
